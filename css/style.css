@@ -1,0 +1,13 @@
+body {
+    background: rgb(54, 59, 94);
+    background: linear-gradient(90deg, rgba(54, 59, 94, 1) 0%, rgba(65, 90, 125, 1) 19%, rgba(237, 237, 255, 1) 100%);
+}
+
+h1 {
+    padding: 10px;
+    margin: 0px;
+    width: 100%;
+    background-color: #415a7d;
+    color: #cccccc;
+    text-align: center;
+}
